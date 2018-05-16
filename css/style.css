@@ -562,3 +562,9 @@ h1{
 .schedule{
   padding: 3rem;
 }
+
+.giftcard{
+  background-color:#378abd;
+  color: #fff;
+  padding: 4rem 0;
+}
