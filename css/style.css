@@ -540,24 +540,19 @@ h1{
     margin-bottom: 15px;
 }
 
-.birthday{
-  /*padding:0;*/
-  
+.photography{
+  background-color: #ffe;
+  padding: 1rem 0;
 }
 
+
 .bridal{
-  /*padding:0;*/
   background-color: #ffe;
 }
 
-.fieldtrip{
-  /*padding:0;*/
-  /*background-color: #ffe;*/
-}
-
-.events{
-  /*background-color: #ffe;*/
-}
+.birthday{  }
+.fieldtrip{  }
+.events{  }
 
 .schedule{
   padding: 3rem;
